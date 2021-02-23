@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # View the Demo of the build using the link below
  [View Demo ](https://clone-1b173.web.app/)
+ 
+#IMPORTANT
+Do copy the firebaseConfig scripts of your own firebase project.
+For that go to Project Settings > scroll down to firebase SDK snippet > select config > copy the scipt from there and paste it in firebase.js file 
 
 ## Available Scripts
 
